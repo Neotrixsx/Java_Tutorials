@@ -3,3 +3,5 @@
 /RelationalOperator.class
 /StringConcat.class
 /Unary.class
+/ShortCircuit.class
+/Assignment.class
